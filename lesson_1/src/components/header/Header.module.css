@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    width: 1440px;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    background-color: blue;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
